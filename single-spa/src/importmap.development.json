@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@eduardoacdiogo/root-config": "http://localhost:9000/eduardoacdiogo-root-config.js",
+    "@eduardoacdiogo/react-single": "http://localhost:8500/eduardoacdiogo-react-single.js",
+    "@eduardoacdiogo/react-multiples": "http://localhost:8500/eduardoacdiogo-react-multiples.js",
+    "@eduardoacdiogo/react-lazy": "http://localhost:8500/eduardoacdiogo-react-lazy.js",
+    "@eduardoacdiogo/react-parcel": "http://localhost:8501/eduardoacdiogo-react-parcel.js",
+    "@eduardoacdiogo/react-route": "http://localhost:8500/eduardoacdiogo-react-route.js",
+    "@eduardoacdiogo/utils": "http://localhost:8600/eduardoacdiogo-utils.js",
+    "@eduardoacdiogo/react-header": "http://localhost:8700/eduardoacdiogo-react-header.js"
+  }
+}
